@@ -1,0 +1,9 @@
+
+.validation{
+    width: 100%;
+    height: 300px;
+    text-align-last: center;
+    align-content: center;
+    border: solid 2px green ;
+    font-size: large;
+  }
