@@ -1,9 +1,21 @@
+.badge-container{
+  width: 100%;
+    display: flex;
+    flex-direction: column;
+}
 
 .validation{
     width: 100%;
     height: 300px;
     text-align-last: center;
     align-content: center;
-    border: solid 2px green ;
     font-size: large;
+    background: green;
+    padding: 20px;
+    padding-top:10px;
+  }
+
+  .close-icon{
+    align-self: self-end;
+
   }
